@@ -1,5 +1,5 @@
   ******************************************************************
-      * Author: Hamza El Iraqy/40976488
+      * Author: Hamza El Iraqy
       * Date:  17/04/2022
       * Purpose: MODIFY TUITION OF STUDENT RECORD BASED ON STUDENT NUMBER
       * Tectonics: cobc
