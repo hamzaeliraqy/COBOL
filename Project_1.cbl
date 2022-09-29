@@ -1,7 +1,6 @@
       ******************************************************************
       * Author:     Hamza Eliraqy
       * Student No: 40976488
-      * Date:       11/02/2022
       * Purpose:    Create student record from user input
       * Tectonics:  cobc
       ******************************************************************
