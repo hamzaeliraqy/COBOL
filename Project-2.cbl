@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: Hamza El Iraqy/40976488
+      * Author: Hamza El Iraqy
       * Date:  19/03/2022
       * Purpose: Write student record based on read of student and program file
       * Tectonics: cobc
