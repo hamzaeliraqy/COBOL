@@ -1,5 +1,5 @@
   ******************************************************************
-      * Author: Hamza El Iraqy/40976488
+      * Author: Hamza El Iraqy
       * Date:  17/04/2022
       * Purpose: CONVERT AN SUQUENTIAL FILE TO INDEXED FILE
       * Tectonics: cobc
