@@ -1,0 +1,5 @@
+        01 COURSE-AVG1 PIC 9(3).
+        01 COURSE-AVG2 PIC 9(3).
+        01 COURSE-AVG3 PIC 9(3).
+        01 COURSE-AVG4 PIC 9(3).
+        01 COURSE-AVG5 PIC 9(3).
